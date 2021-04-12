@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Vasanth Site 1"
 baseurl = "/"
 theme = "terminal"
 paginate = 5
